@@ -23,8 +23,11 @@ This Python script implements a Convolutional Neural Network (CNN) for classifyi
 ## Output
 The script generates two plots:
 1. Training Data: Shows the accuracy and loss during training.
+
 ![Training Data](training_data.png)
+
 1. Testing Data: Shows the accuracy and loss during testing.
+
 ![Testing Data](testing_data.png)
 
 Additionally, it displays a heatmap of the confusion matrix to analyze the classification performance. Sample images of food items are also loaded and classified, displaying the predicted class along with some additional information such as calorie count.
