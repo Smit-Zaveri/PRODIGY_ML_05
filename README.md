@@ -26,7 +26,7 @@ The script generates two plots:
 
 ![Training Data](training_data.png)
 
-1. Testing Data: Shows the accuracy and loss during testing.
+2. Testing Data: Shows the accuracy and loss during testing.
 
 ![Testing Data](testing_data.png)
 
