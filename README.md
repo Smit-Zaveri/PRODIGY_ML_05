@@ -30,8 +30,8 @@ The script generates two plots:
 Additionally, it displays a heatmap of the confusion matrix to analyze the classification performance. Sample images of food items are also loaded and classified, displaying the predicted class along with some additional information such as calorie count.
 
 ## Author
-[Your Name]
+[Smit Zaveri](https://github.com/Smit-Zaveri/)
 
 ## Acknowledgments
-- The Food-101 dataset used in this script is obtained from [source link].
-- Inspiration for this script is derived from [source link].
+- The Food-101 dataset used in this script is obtained from [\[source link\]](https://www.kaggle.com/datasets/dansbecker/food-101).
+- Inspiration for this script is derived from [\[source link\]](https://www.kaggle.com/code/bebofekry/101-food-classification/notebook).
