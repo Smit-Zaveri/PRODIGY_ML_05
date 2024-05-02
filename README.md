@@ -20,6 +20,13 @@ This Python script implements a Convolutional Neural Network (CNN) for classifyi
 - The trained model is evaluated on the test data, and a confusion matrix is plotted to analyze the classification performance.
 - Sample images of various food items are loaded and classified using the trained model.
 
+## Video
+
+
+https://github.com/Smit-Zaveri/PRODIGY_ML_05/assets/104667864/566f6fcd-741d-4745-9ce8-262b21d6a7a6
+
+
+
 ## Output
 The script generates two plots:
 1. Training Data: Shows the accuracy and loss during training.
